@@ -1,0 +1,16 @@
+body{
+    font-family:"Roboto";
+}
+
+.bg-yellow{
+background-color:#EAC926;
+}
+.bg-light-grey{
+    background-color:  #ebebeb;
+}
+.w-60 {
+ width: 50%;
+}
+.p-1{
+    padding: 8px;
+}
